@@ -1,1 +1,1 @@
-# .github
+# Hi! We are MEDiThings
